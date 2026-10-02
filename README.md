@@ -20,7 +20,7 @@ Estou estudando **Engenharia de Software** e busco **construir** na prática o q
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,github&theme=dark" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Tecnologias" />
 
 </div>
 

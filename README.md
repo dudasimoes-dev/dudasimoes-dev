@@ -46,29 +46,6 @@ Modelo de card de projeto. Descomente e troque NOME-DO-REPO:
 
 <br>
 
-## ▍ Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=duda&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=8b5cf6&icon_color=8b5cf6&text_color=e6e6e6&ring_color=8b5cf6" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duda&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=8b5cf6&text_color=e6e6e6" alt="Top Languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=duda&hide_border=true&background=0d0d0d&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&currStreakNum=e6e6e6&sideNums=e6e6e6&sideLabels=8b5cf6&dates=8a8a8a" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=duda&bg_color=0d0d0d&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true" alt="Activity Graph" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=duda&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
-
-</div>
-
-<br>
-
 ## ▍ Contribuições
 
 <div align="center">
